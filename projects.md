@@ -12,4 +12,24 @@ I developed interactions with google, wikipedia and youtube. For the product own
 
 [PepperonIT github](https://github.com/PepperonIT)
 
-## TODO
+# Coursework
+
+## AI
+
+[AI notebooks](https://github.com/jol95/Coursework_AI)
+
+## Databases
+
+[SQL Database site](https://github.com/jol95/D0018E_group30_lab)
+
+## Microdata
+
+[Assembly excercises](https://github.com/jol95/Coursework_Microdata)
+
+## Dynamic Websystems
+
+[Windmill simulator](https://github.com/jol95/dynamic-websystems)
+
+## Candidate project
+
+[P2P Network simulator](https://github.com/jol95/D0020E-grupp4)
